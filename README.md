@@ -40,4 +40,5 @@ Array Sorted ----->>>> Use Binary Search
 }
 -------------------------------------------------------------------------------------------------
    
-
+2. Three sorted arays merge with easy solution with optimized code
+3. 
